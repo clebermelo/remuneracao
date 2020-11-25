@@ -49,8 +49,9 @@
           },
           {
             "name": "data",
-            "type": "integer",
-            "format": "default"
+            "type": "number",
+            "format": "default",
+            "decimalChar": ","
           }
         ]
       }
